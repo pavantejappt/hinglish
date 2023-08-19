@@ -41,7 +41,7 @@ Seaborn
 Acknowledgments
 Both models are the result of efforts inspired by various online tutorials, documentation, and research papers on machine translation. Special thanks to the creators of the IITB English-Hindi dataset for providing the training data.
 
-Feel free to experiment and compare the performance of the two models for your translation tasks!
 
 
-You can copy and paste this markdown content into your repository's README file. Make sure to replace any placeholders with actual information relevant to your repository.
+
+
